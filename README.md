@@ -18,7 +18,8 @@ Config = {
         enabled = true, -- Enable logging of forceclean
         webhook = 'https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_SECRET' -- Discord webhook URL
     },
-}```
+}
+```
 
 ## Acknowledgments
 Astra - Failed to make the original version so I had to step in

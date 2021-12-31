@@ -10,6 +10,6 @@ Config = {
     },
     Logging = {
         enabled = true, -- Enable logging of forceclean
-        webhook = 'https://discord.com/api/webhooks/922252169279840306/oqoRi72y-wmY8eqGqbUHKrPBJIOBmORwGae76PHxXy1lVTBlKFElU6LVX6LKk1kS4SeD' -- Discord webhook URL
+        webhook = 'https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_SECRET' -- Discord webhook URL
     },
 }
